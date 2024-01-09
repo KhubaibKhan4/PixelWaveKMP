@@ -1,4 +1,9 @@
-# Compose Multiplatform Application
+# Pixel Wav Kotlin Multiplatform
+Pixel Wav is a Image Generator for Android, iOS, Web And Desktop.
+
+## ScreenShots
+<img src="https://github.com/KhubaibKhan4/PixelWaveKMP/blob/master/screenshots/1.png" width="800px" height="200px" /> <img src="https://github.com/KhubaibKhan4/PixelWaveKMP/blob/master/screenshots/2.png" width="800px" height="200px" />
+<img src="https://github.com/KhubaibKhan4/PixelWaveKMP/blob/master/screenshots/3.png" width="800px" height="200px" /> <img src="https://github.com/KhubaibKhan4/PixelWaveKMP/blob/master/screenshots/4.png" /> <img src="https://github.com/KhubaibKhan4/PixelWaveKMP/blob/master/screenshots/5.png"  />
 
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
